@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-Open your browser and navigate to: **http://localhost:8501**
+Open your browser and navigate to: https://coa-virtual-memory-simulator-fjb7arrv9j25wohikyge5n.streamlit.app/
 
 ---
 
